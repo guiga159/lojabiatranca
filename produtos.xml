@@ -1,104 +1,11 @@
-<products>
-    <product>
-        <id>1</id>
-        <name>Camiseta Básica</name>
-        <price>59.90</price>
-        <image>https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=880&amp;q=80</image>
-        <category>Roupas</category>
-        <rating>4</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Branco</color>
-            <color>Cinza</color>
-        </colors>
-    </product>
-    <product>
-        <id>2</id>
-        <name>Tênis Esportivo</name>
-        <price>199.90</price>
-        <image>https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80</image>
-        <category>Calçados</category>
-        <rating>5</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Azul</color>
-            <color>Branco</color>
-        </colors>
-    </product>
-    <product>
-        <id>3</id>
-        <name>Relógio Smart</name>
-        <price>349.90</price>
-        <image>https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1399&amp;q=80</image>
-        <category>Acessórios</category>
-        <rating>4</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Prata</color>
-        </colors>
-    </product>
-    <product>
-        <id>4</id>
-        <name>Mochila Urbana</name>
-        <price>129.90</price>
-        <image>https://images.unsplash.com/photo-1553062407-98eeb64c6a62?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1374&amp;q=80</image>
-        <category>Acessórios</category>
-        <rating>3</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Azul</color>
-            <color>Verde</color>
-        </colors>
-    </product>
-    <product>
-        <id>5</id>
-        <name>Jaqueta Jeans</name>
-        <price>179.90</price>
-        <image>https://images.unsplash.com/photo-1591047139829-d91aecb6caea?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=736&amp;q=80</image>
-        <category>Roupas</category>
-        <rating>4</rating>
-        <colors>
-            <color>Azul</color>
-            <color>Preto</color>
-        </colors>
-    </product>
-    <product>
-        <id>6</id>
-        <name>Fones de Ouvido</name>
-        <price>159.90</price>
-        <image>https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1470&amp;q=80</image>
-        <category>Eletrônicos</category>
-        <rating>5</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Branco</color>
-            <color>Azul</color>
-        </colors>
-    </product>
-    <product>
-        <id>7</id>
-        <name>Óculos de Sol</name>
-        <price>89.90</price>
-        <image>https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=880&amp;q=80</image>
-        <category>Acessórios</category>
-        <rating>4</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Marrom</color>
-            <color>Dourado</color>
-        </colors>
-    </product>
-    <product>
-        <id>8</id>
-        <name>Conjunto de Panelas</name>
-        <price>249.90</price>
-        <image>https://images.unsplash.com/photo-1588514899099-e2df6951dde6?ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&amp;auto=format&amp;fit=crop&amp;w=1470&amp;q=80</image>
-        <category>Casa</category>
-        <rating>5</rating>
-        <colors>
-            <color>Preto</color>
-            <color>Vermelho</color>
-            <color>Azul</color>
-        </colors>
-    </product>
-</products>
+<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+  <produto>
+    <nome>Bia tranças</nome>
+    <preco>200</preco>
+    <nota>5</nota>
+    <categoria>cabelo</categoria>
+    <cores><cor>1</cor><cor>2</cor><cor>3</cor></cores>
+    <imagem>imagem_1753385121572.png</imagem>
+  </produto>
+</produtos>
