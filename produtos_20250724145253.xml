@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+  <produto>
+    <nome>Bia tranças</nome>
+    <preco>100</preco>
+    <nota>5</nota>
+    <categoria>ff</categoria>
+    <cores><cor>1</cor><cor>2</cor><cor>3</cor></cores>
+    <imagem>imagem_1753368763707.png</imagem>
+  </produto>
+</produtos>
